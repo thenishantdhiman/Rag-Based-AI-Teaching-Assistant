@@ -1,0 +1,5 @@
+Hi there! So, you're wondering about input devices?
+
+From the video, we learned that input devices are basically any device that allows us to send data, information, or control signals to a computer. Think of them as the tools you use to interact with your computer. Some examples of input devices mentioned in the video include keyboards and mice.
+
+So, in short, input devices are just tools that help you communicate with your computer!

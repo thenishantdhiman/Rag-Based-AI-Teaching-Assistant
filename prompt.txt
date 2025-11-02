@@ -1,0 +1,6 @@
+I am Basic of Computer. Here are video subtitle chunks containing the text at that time:
+
+[{"text":" Then if we talk about input devices So input device is the same as your devices They enable the user to send the data, information Or the control signal to the computer Means if I have to send something to the computer"},{"text":" A computer is an electronic device which accepts input There are many different input devices which we will talk about in the next video like keyboard, mouse"},{"text":" Keyboard is the slowest input device Then if we talk about output device So peripheral devices Which is used to display Display the things"},{"text":" So this is different input device Then if we talk about output device If you ask in input device What is the slowest input device? That is your keyboard"},{"text":" All these are operating systems Apart from this, our peripheral devices Peripheral devices are our input devices We can also call them as output devices Or if we talk about memory"}]
+---------------------------------
+"what are input devices?"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) and what content is taught in the video. If user asks unrelated question, tell him that you can only answer questions related to the course
